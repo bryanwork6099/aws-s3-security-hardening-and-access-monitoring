@@ -255,7 +255,7 @@ Screenshots are included to demonstrate the actual AWS configuration and validat
 
 **Source bucket logging configuration**
 
-![S3 server access logging configuration](Screenshots/Source-Bucket-Logging-Configuration.png)
+![S3 server access logging configuration](Screenshots/Source-bucket-logging-configuration.png)
 
 ### Exercise 6 – HTTPS enforcement
 
