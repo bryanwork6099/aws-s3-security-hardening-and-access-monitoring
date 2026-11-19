@@ -1,4 +1,4 @@
-# AWS S3 Security Hardening
+# AWS S3 Security Hardening and Access Montitoring
 
 A hands-on AWS cloud security project demonstrating how to secure an Amazon S3 bucket through public access restrictions, versioning, SSE-KMS encryption, IAM-based access control, server access logging, and HTTPS enforcement.
 
