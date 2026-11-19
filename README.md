@@ -322,25 +322,6 @@ The following are possible extensions and are **not part of the completed scope*
 - Explore AWS Config, GuardDuty, Security Hub, and Amazon Macie.
 
 ---
-
-## Repository Structure
-
-A suggested repository layout:
-
-```text
-S3-Security-Lab/
-├── README.md
-├── https-policy.json
-├── screenshots/
-│   ├── 01-s3-bucket-created.png
-│   ├── 02-block-public-access.png
-│   ├── 03-bucket-versioning.png
-│   ├── 04-default-encryption-sse-kms.png
-│   ├── 05-iam-read-only-access.png
-│   ├── 06-server-access-logging.png
-│   ├── 07-https-policy-configuration.png
-│   ├── 08-https-policy-verification.png
-│   └── 09-https-access-test.png
 └── test-files/
     └── test.txt
 ```
