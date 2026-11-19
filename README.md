@@ -231,45 +231,45 @@ Screenshots are included to demonstrate the actual AWS configuration and validat
 
 **S3 bucket created**
 
-![S3 bucket created](screenshots/01-s3-bucket-created.png)
+![S3 bucket created](Screenshots/S3-Bucket-Created.png)
 
 **Block Public Access – all four settings enabled**
 
-![S3 Block Public Access settings](screenshots/02-block-public-access.png)
+![S3 Block Public Access settings](Screenshots/Block-Public-Access-Enabled.png)
 
 **Bucket Versioning – Enabled**
 
-![S3 bucket versioning enabled](screenshots/03-bucket-versioning.png)
+![S3 bucket versioning enabled](Screenshots/S3-Bucket-Versioning-Enabled.png)
 
 **Default Encryption – SSE-KMS**
 
-![S3 default encryption SSE-KMS](screenshots/04-default-encryption-sse-kms.png)
+![S3 default encryption SSE-KMS](Screenshots/SSE-KMS-Default.png)
 
 ### Exercise 4 – IAM and bucket access
 
 **Read-only IAM user and access policy**
 
-![IAM read-only user and policy](screenshots/05-iam-read-only-access.png)
+![IAM read-only user and policy](Screenshots/Read-Only-IAM-User.png)
 
 ### Exercise 5 – Server access logging
 
 **Source bucket logging configuration**
 
-![S3 server access logging configuration](screenshots/06-server-access-logging.png)
+![S3 server access logging configuration](Screenshots/Source-Bucket-Logging-Configuration.png)
 
 ### Exercise 6 – HTTPS enforcement
 
 **HTTPS bucket policy**
 
-![HTTPS enforcement bucket policy](screenshots/07-https-policy-configuration.png)
+![HTTPS enforcement bucket policy](Screenshots/HTTPS-Bucket-Policy.png)
 
 **Verified bucket policy containing both the read-only and HTTPS statements**
 
-![Verified S3 bucket policy](screenshots/08-https-policy-verification.png)
+![Verified S3 bucket policy](Screenshots/Verified-Bucket-Policy.png)
 
 **Successful AWS CLI HTTPS request**
 
-![Successful S3 CLI list objects request](screenshots/09-https-access-test.png)
+![Successful S3 CLI list objects request](Screenshots/Successful-CLI-HTTP-Request.png)
 
 > Add each screenshot to the `screenshots/` folder using the matching filename. The image links above are placeholders until the files are added to the repository. Redact account-specific identifiers or other sensitive information before publishing screenshots.
 
